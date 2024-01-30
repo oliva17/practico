@@ -1,0 +1,92 @@
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\appsettings.Development.json
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\appsettings.json
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\apiServicio.exe
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\apiServicio.deps.json
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\apiServicio.runtimeconfig.json
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\apiServicio.dll
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\apiServicio.pdb
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\examen\apiServicio\apiServicio\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.csproj.AssemblyReference.cache
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.AssemblyInfoInputs.cache
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.AssemblyInfo.cs
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.csproj.CoreCompileInputs.cache
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.MvcApplicationPartsAssemblyInfo.cs
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.MvcApplicationPartsAssemblyInfo.cache
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\staticwebassets\msbuild.apiServicio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\staticwebassets\msbuild.build.apiServicio.props
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.apiServicio.props
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.apiServicio.props
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\staticwebassets.build.json
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\staticwebassets.development.json
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\scopedcss\bundle\apiServicio.styles.css
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.csproj.CopyComplete
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.dll
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\refint\apiServicio.dll
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.pdb
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.genruntimeconfig.cache
+C:\examen\apiServicio\apiServicio\obj\Debug\net6.0\ref\apiServicio.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\appsettings.json
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\apiServicio.exe
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\apiServicio.deps.json
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\apiServicio.runtimeconfig.json
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\apiServicio.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\apiServicio.pdb
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.csproj.AssemblyReference.cache
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.AssemblyInfoInputs.cache
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.AssemblyInfo.cs
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\staticwebassets\msbuild.apiServicio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\staticwebassets\msbuild.build.apiServicio.props
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.apiServicio.props
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.apiServicio.props
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\scopedcss\bundle\apiServicio.styles.css
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.csproj.CopyComplete
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\refint\apiServicio.dll
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.pdb
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\apiServicio.genruntimeconfig.cache
+C:\Users\Daniel Tapia\Downloads\examen\apiServicio\apiServicio\obj\Debug\net6.0\ref\apiServicio.dll
